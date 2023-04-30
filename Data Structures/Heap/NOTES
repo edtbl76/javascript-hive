@@ -1,0 +1,7 @@
+
+Characteristics
+
+1. The number of swaps can be at most the height of the binary tree. 
+2. The relationship between the maximum no. of nodes, N, of a binary tree and the height, h is:
+
+    N = 2^(h + 1) - 1
